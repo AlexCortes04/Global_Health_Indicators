@@ -1,0 +1,496 @@
+Country,Period,Sex,Value
+Afghanistan,2020,Male,17.1
+Afghanistan,2020,Female,2.3
+Afghanistan,2020,Both sexes,9.7
+Albania,2020,Both sexes,22.9
+Albania,2020,Male,39.5
+Albania,2020,Female,6.4
+Algeria,2020,Female,0.6
+Algeria,2020,Both sexes,15.4
+Algeria,2020,Male,30.2
+Andorra,2020,Male,35.3
+Andorra,2020,Both sexes,36
+Andorra,2020,Female,36.7
+Argentina,2020,Female,19.7
+Argentina,2020,Both sexes,24.6
+Argentina,2020,Male,29.5
+Armenia,2020,Female,1.6
+Armenia,2020,Both sexes,25.8
+Armenia,2020,Male,49.9
+Australia,2020,Female,11.5
+Australia,2020,Both sexes,13.7
+Australia,2020,Male,15.9
+Austria,2020,Female,25.5
+Austria,2020,Both sexes,26.6
+Austria,2020,Male,27.6
+Azerbaijan,2020,Female,0.1
+Azerbaijan,2020,Both sexes,20.2
+Azerbaijan,2020,Male,40.2
+Bahamas,2020,Both sexes,11.3
+Bahamas,2020,Female,2.3
+Bahamas,2020,Male,20.3
+Bahrain,2020,Both sexes,15.4
+Bahrain,2020,Male,25.6
+Bahrain,2020,Female,5.2
+Bangladesh,2020,Female,0.6
+Bangladesh,2020,Both sexes,18.5
+Bangladesh,2020,Male,36.3
+Barbados,2020,Female,1.9
+Barbados,2020,Male,12.4
+Barbados,2020,Both sexes,7.1
+Belarus,2020,Female,11.4
+Belarus,2020,Both sexes,26.5
+Belarus,2020,Male,41.6
+Belgium,2020,Female,22
+Belgium,2020,Both sexes,25
+Belgium,2020,Male,28
+Belize,2020,Male,16.2
+Belize,2020,Female,2
+Belize,2020,Both sexes,9.1
+Benin,2020,Female,1.2
+Benin,2020,Both sexes,4.8
+Benin,2020,Male,8.4
+Bhutan,2020,Male,10.6
+Bhutan,2020,Female,3
+Bhutan,2020,Both sexes,6.8
+Bolivia (Plurinational State of),2020,Both sexes,13.4
+Bolivia (Plurinational State of),2020,Male,21.9
+Bolivia (Plurinational State of),2020,Female,4.9
+Bosnia and Herzegovina,2020,Female,31.1
+Bosnia and Herzegovina,2020,Both sexes,36.8
+Bosnia and Herzegovina,2020,Male,42.6
+Botswana,2020,Both sexes,15.4
+Botswana,2020,Male,27
+Botswana,2020,Female,3.9
+Brazil,2020,Both sexes,12.9
+Brazil,2020,Male,16.3
+Brazil,2020,Female,9.5
+Brunei Darussalam,2020,Both sexes,16.4
+Brunei Darussalam,2020,Female,2.3
+Brunei Darussalam,2020,Male,30.4
+Bulgaria,2020,Female,38.1
+Bulgaria,2020,Both sexes,40
+Bulgaria,2020,Male,41.8
+Burkina Faso,2020,Both sexes,10.7
+Burkina Faso,2020,Male,18.7
+Burkina Faso,2020,Female,2.7
+Burundi,2020,Female,1.9
+Burundi,2020,Male,15.8
+Burundi,2020,Both sexes,8.9
+Cabo Verde,2020,Male,13
+Cabo Verde,2020,Female,2.9
+Cabo Verde,2020,Both sexes,7.9
+Cambodia,2020,Female,1.9
+Cambodia,2020,Both sexes,16.2
+Cambodia,2020,Male,30.6
+Cameroon,2020,Female,0.4
+Cameroon,2020,Male,10.4
+Cameroon,2020,Both sexes,5.4
+Canada,2020,Female,10.7
+Canada,2020,Both sexes,13
+Canada,2020,Male,15.3
+Chad,2020,Female,1.7
+Chad,2020,Male,13.6
+Chad,2020,Both sexes,7.7
+Chile,2020,Female,27.9
+Chile,2020,Both sexes,30.1
+Chile,2020,Male,32.3
+China,2020,Female,1.7
+China,2020,Both sexes,23.7
+China,2020,Male,45.6
+Colombia,2020,Male,12.6
+Colombia,2020,Female,4.6
+Colombia,2020,Both sexes,8.6
+Comoros,2020,Both sexes,12.6
+Comoros,2020,Female,2.5
+Comoros,2020,Male,22.8
+Congo,2020,Female,1
+Congo,2020,Both sexes,14.2
+Congo,2020,Male,27.5
+Cook Islands,2020,Female,23
+Cook Islands,2020,Both sexes,27.9
+Cook Islands,2020,Male,32.9
+Costa Rica,2020,Male,13.9
+Costa Rica,2020,Female,4.9
+Costa Rica,2020,Both sexes,9.4
+Cote d'Ivoire,2020,Female,0.6
+Cote d'Ivoire,2020,Male,18
+Cote d'Ivoire,2020,Both sexes,9.3
+Croatia,2020,Female,36.2
+Croatia,2020,Both sexes,36.7
+Croatia,2020,Male,37.3
+Cuba,2020,Female,10.5
+Cuba,2020,Both sexes,18.7
+Cuba,2020,Male,26.9
+Cyprus,2020,Female,23.6
+Cyprus,2020,Both sexes,35.9
+Cyprus,2020,Male,48.3
+Czechia,2020,Female,26.8
+Czechia,2020,Both sexes,30.4
+Czechia,2020,Male,34.1
+Democratic People's Republic of Korea,2020,Female,0
+Democratic People's Republic of Korea,2020,Both sexes,17.4
+Democratic People's Republic of Korea,2020,Male,34.8
+Democratic Republic of the Congo,2020,Female,0.7
+Democratic Republic of the Congo,2020,Male,18.1
+Democratic Republic of the Congo,2020,Both sexes,9.4
+Denmark,2020,Female,17.2
+Denmark,2020,Both sexes,17.5
+Denmark,2020,Male,17.8
+Dominican Republic,2020,Male,13.4
+Dominican Republic,2020,Female,6.3
+Dominican Republic,2020,Both sexes,9.8
+Ecuador,2020,Both sexes,10.5
+Ecuador,2020,Male,18.1
+Ecuador,2020,Female,2.8
+Egypt,2020,Female,0.4
+Egypt,2020,Both sexes,24.2
+Egypt,2020,Male,48
+El Salvador,2020,Male,16.6
+El Salvador,2020,Female,2
+El Salvador,2020,Both sexes,9.3
+Estonia,2020,Female,21.8
+Estonia,2020,Both sexes,27
+Estonia,2020,Male,32.1
+Eswatini,2020,Female,1.1
+Eswatini,2020,Male,15.5
+Eswatini,2020,Both sexes,8.3
+Ethiopia,2020,Female,0.9
+Ethiopia,2020,Both sexes,3.7
+Ethiopia,2020,Male,6.5
+Fiji,2020,Female,13.4
+Fiji,2020,Both sexes,28
+Fiji,2020,Male,42.7
+Finland,2020,Female,16.5
+Finland,2020,Both sexes,17.9
+Finland,2020,Male,19.3
+France,2020,Female,33.3
+France,2020,Both sexes,34.5
+France,2020,Male,35.8
+Gambia,2020,Female,0.5
+Gambia,2020,Both sexes,10.6
+Gambia,2020,Male,20.8
+Georgia,2020,Both sexes,31.9
+Georgia,2020,Male,56.3
+Georgia,2020,Female,7.4
+Germany,2020,Female,20.2
+Germany,2020,Both sexes,22.4
+Germany,2020,Male,24.5
+Ghana,2020,Female,0.3
+Ghana,2020,Both sexes,2.6
+Ghana,2020,Male,4.8
+Greece,2020,Female,31.5
+Greece,2020,Both sexes,34.2
+Greece,2020,Male,37
+Guatemala,2020,Female,1.8
+Guatemala,2020,Both sexes,12.1
+Guatemala,2020,Male,22.5
+Guinea-Bissau,2020,Female,0.5
+Guinea-Bissau,2020,Male,16.5
+Guinea-Bissau,2020,Both sexes,8.5
+Guyana,2020,Male,11.3
+Guyana,2020,Female,2.4
+Guyana,2020,Both sexes,6.9
+Haiti,2020,Male,13.9
+Haiti,2020,Female,2.7
+Haiti,2020,Both sexes,8.3
+Honduras,2020,Female,1.8
+Honduras,2020,Both sexes,12.7
+Honduras,2020,Male,23.5
+Hungary,2020,Female,28.5
+Hungary,2020,Both sexes,32.6
+Hungary,2020,Male,36.7
+Iceland,2020,Female,10.4
+Iceland,2020,Both sexes,10.5
+Iceland,2020,Male,10.5
+India,2020,Female,1.5
+India,2020,Male,14.7
+India,2020,Both sexes,8.1
+Indonesia,2020,Female,2.3
+Indonesia,2020,Both sexes,36.2
+Indonesia,2020,Male,70
+Iran (Islamic Republic of),2020,Female,1.3
+Iran (Islamic Republic of),2020,Male,17.9
+Iran (Islamic Republic of),2020,Both sexes,9.6
+Iraq,2020,Both sexes,19.2
+Iraq,2020,Female,2
+Iraq,2020,Male,36.5
+Ireland,2020,Female,18.2
+Ireland,2020,Both sexes,20.4
+Ireland,2020,Male,22.5
+Israel,2020,Female,14.5
+Israel,2020,Both sexes,21.2
+Israel,2020,Male,27.8
+Italy,2020,Female,19.2
+Italy,2020,Both sexes,22.7
+Italy,2020,Male,26.3
+Jamaica,2020,Both sexes,10.1
+Jamaica,2020,Male,16.5
+Jamaica,2020,Female,3.8
+Japan,2020,Female,10
+Japan,2020,Both sexes,20.2
+Japan,2020,Male,30.3
+Jordan,2020,Female,13.2
+Jordan,2020,Both sexes,35.1
+Jordan,2020,Male,57
+Kazakhstan,2020,Both sexes,22.6
+Kazakhstan,2020,Male,38.6
+Kazakhstan,2020,Female,6.7
+Kenya,2020,Female,0.9
+Kenya,2020,Male,17.1
+Kenya,2020,Both sexes,9
+Kiribati,2020,Female,28.5
+Kiribati,2020,Both sexes,41.6
+Kiribati,2020,Male,54.7
+Kuwait,2020,Both sexes,19.9
+Kuwait,2020,Female,2.3
+Kuwait,2020,Male,37.4
+Kyrgyzstan,2020,Both sexes,26.7
+Kyrgyzstan,2020,Female,3.3
+Kyrgyzstan,2020,Male,50
+Lao People's Democratic Republic,2020,Both sexes,26.4
+Lao People's Democratic Republic,2020,Male,47.3
+Lao People's Democratic Republic,2020,Female,5.4
+Latvia,2020,Female,20
+Latvia,2020,Both sexes,31.4
+Latvia,2020,Male,42.8
+Lebanon,2020,Female,26.1
+Lebanon,2020,Both sexes,34.4
+Lebanon,2020,Male,42.7
+Lesotho,2020,Female,0.4
+Lesotho,2020,Both sexes,20.6
+Lesotho,2020,Male,40.8
+Liberia,2020,Female,1.5
+Liberia,2020,Male,13.2
+Liberia,2020,Both sexes,7.4
+Lithuania,2020,Female,19.6
+Lithuania,2020,Both sexes,29.3
+Lithuania,2020,Male,39
+Luxembourg,2020,Female,21.9
+Luxembourg,2020,Both sexes,23.5
+Luxembourg,2020,Male,25.2
+Madagascar,2020,Female,1.3
+Madagascar,2020,Both sexes,16.7
+Madagascar,2020,Male,32.1
+Malawi,2020,Female,1.5
+Malawi,2020,Male,16.5
+Malawi,2020,Both sexes,9
+Malaysia,2020,Female,0.6
+Malaysia,2020,Both sexes,21
+Malaysia,2020,Male,41.4
+Maldives,2020,Both sexes,24.1
+Maldives,2020,Female,4.3
+Maldives,2020,Male,43.8
+Mali,2020,Female,0.8
+Mali,2020,Male,12.9
+Mali,2020,Both sexes,6.9
+Malta,2020,Female,23.3
+Malta,2020,Both sexes,25.4
+Malta,2020,Male,27.5
+Marshall Islands,2020,Both sexes,23.5
+Marshall Islands,2020,Female,4.1
+Marshall Islands,2020,Male,42.9
+Mauritania,2020,Female,1.5
+Mauritania,2020,Male,14.7
+Mauritania,2020,Both sexes,8.1
+Mauritius,2020,Both sexes,21.3
+Mauritius,2020,Female,3.1
+Mauritius,2020,Male,39.6
+Mexico,2020,Both sexes,15.5
+Mexico,2020,Male,23.8
+Mexico,2020,Female,7.2
+Mongolia,2020,Both sexes,28.4
+Mongolia,2020,Male,50.2
+Mongolia,2020,Female,6.7
+Montenegro,2020,Male,31.5
+Montenegro,2020,Both sexes,32.4
+Montenegro,2020,Female,33.2
+Morocco,2020,Female,1.1
+Morocco,2020,Both sexes,13.5
+Morocco,2020,Male,25.9
+Myanmar,2020,Both sexes,20.8
+Myanmar,2020,Female,3.6
+Myanmar,2020,Male,38
+Namibia,2020,Both sexes,13.3
+Namibia,2020,Male,21.6
+Namibia,2020,Female,5
+Nauru,2020,Female,45.8
+Nauru,2020,Both sexes,46
+Nauru,2020,Male,46.2
+Nepal,2020,Both sexes,17.6
+Nepal,2020,Male,28.6
+Nepal,2020,Female,6.5
+Netherlands (Kingdom of the),2020,Female,19.9
+Netherlands (Kingdom of the),2020,Both sexes,22.2
+Netherlands (Kingdom of the),2020,Male,24.4
+New Zealand,2020,Female,12.1
+New Zealand,2020,Both sexes,13.3
+New Zealand,2020,Male,14.5
+Niger,2020,Female,0.6
+Niger,2020,Male,12.2
+Niger,2020,Both sexes,6.4
+Nigeria,2020,Female,0.4
+Nigeria,2020,Both sexes,3.3
+Nigeria,2020,Male,6.2
+Norway,2020,Female,15.1
+Norway,2020,Both sexes,15.8
+Norway,2020,Male,16.6
+Oman,2020,Female,0.4
+Oman,2020,Male,14.6
+Oman,2020,Both sexes,7.5
+Pakistan,2020,Both sexes,14
+Pakistan,2020,Male,24.7
+Pakistan,2020,Female,3.3
+Palau,2020,Both sexes,18
+Palau,2020,Male,27.9
+Palau,2020,Female,8
+Panama,2020,Female,2
+Panama,2020,Both sexes,5.4
+Panama,2020,Male,8.8
+Papua New Guinea,2020,Female,25.9
+Papua New Guinea,2020,Both sexes,40.7
+Papua New Guinea,2020,Male,55.4
+Paraguay,2020,Both sexes,11.7
+Paraguay,2020,Male,19
+Paraguay,2020,Female,4.4
+Peru,2020,Male,13.2
+Peru,2020,Female,3.1
+Peru,2020,Both sexes,8.2
+Philippines,2020,Both sexes,21.6
+Philippines,2020,Male,38.1
+Philippines,2020,Female,5
+Poland,2020,Female,20.9
+Poland,2020,Both sexes,24.5
+Poland,2020,Male,28.1
+Portugal,2020,Female,20.3
+Portugal,2020,Both sexes,25.6
+Portugal,2020,Male,30.9
+Qatar,2020,Female,1.9
+Qatar,2020,Both sexes,10.8
+Qatar,2020,Male,19.6
+Republic of Korea,2020,Both sexes,21
+Republic of Korea,2020,Male,36
+Republic of Korea,2020,Female,5.9
+Republic of Moldova,2020,Both sexes,27.7
+Republic of Moldova,2020,Male,48.9
+Republic of Moldova,2020,Female,6.6
+Romania,2020,Female,20.7
+Romania,2020,Both sexes,30.1
+Romania,2020,Male,39.5
+Russian Federation,2020,Female,16.8
+Russian Federation,2020,Both sexes,29.4
+Russian Federation,2020,Male,42
+Rwanda,2020,Both sexes,10.6
+Rwanda,2020,Male,17.5
+Rwanda,2020,Female,3.7
+Saint Lucia,2020,Both sexes,14.3
+Saint Lucia,2020,Male,25.3
+Saint Lucia,2020,Female,3.2
+Samoa,2020,Female,14
+Samoa,2020,Both sexes,23.7
+Samoa,2020,Male,33.4
+Sao Tome and Principe,2020,Female,0.9
+Sao Tome and Principe,2020,Male,10.1
+Sao Tome and Principe,2020,Both sexes,5.5
+Saudi Arabia,2020,Both sexes,13.9
+Saudi Arabia,2020,Female,2.1
+Saudi Arabia,2020,Male,25.6
+Senegal,2020,Female,0.6
+Senegal,2020,Male,12.7
+Senegal,2020,Both sexes,6.7
+Serbia,2020,Female,39.2
+Serbia,2020,Both sexes,40.1
+Serbia,2020,Male,41
+Seychelles,2020,Both sexes,20.5
+Seychelles,2020,Male,35.1
+Seychelles,2020,Female,5.8
+Sierra Leone,2020,Both sexes,12.6
+Sierra Leone,2020,Male,21
+Sierra Leone,2020,Female,4.3
+Singapore,2020,Both sexes,16.3
+Singapore,2020,Male,27.7
+Singapore,2020,Female,4.9
+Slovakia,2020,Female,27.6
+Slovakia,2020,Both sexes,32.3
+Slovakia,2020,Male,37
+Slovenia,2020,Female,18.9
+Slovenia,2020,Both sexes,20.6
+Slovenia,2020,Male,22.3
+Solomon Islands,2020,Female,19.9
+Solomon Islands,2020,Both sexes,37.3
+Solomon Islands,2020,Male,54.6
+South Africa,2020,Both sexes,20.9
+South Africa,2020,Male,34.9
+South Africa,2020,Female,6.9
+Spain,2020,Female,27.5
+Spain,2020,Both sexes,28.9
+Spain,2020,Male,30.3
+Sri Lanka,2020,Female,0.2
+Sri Lanka,2020,Male,18.5
+Sri Lanka,2020,Both sexes,9.3
+Sweden,2020,Female,13.1
+Sweden,2020,Both sexes,13.8
+Sweden,2020,Male,14.4
+Switzerland,2020,Female,23.1
+Switzerland,2020,Both sexes,25.8
+Switzerland,2020,Male,28.6
+Thailand,2020,Female,1.6
+Thailand,2020,Both sexes,19.7
+Thailand,2020,Male,37.8
+Timor-Leste,2020,Both sexes,32.7
+Timor-Leste,2020,Female,5.3
+Timor-Leste,2020,Male,60.1
+Togo,2020,Female,0.6
+Togo,2020,Male,10.6
+Togo,2020,Both sexes,5.6
+Tonga,2020,Female,15.3
+Tonga,2020,Both sexes,31.5
+Tonga,2020,Male,47.6
+Turkiye,2020,Female,19.2
+Turkiye,2020,Both sexes,30.7
+Turkiye,2020,Male,42.1
+Tunisia,2020,Female,1.7
+Tunisia,2020,Both sexes,21.2
+Tunisia,2020,Male,40.7
+Turkmenistan,2020,Female,0.5
+Turkmenistan,2020,Male,11.1
+Turkmenistan,2020,Both sexes,5.8
+Tuvalu,2020,Female,19.7
+Tuvalu,2020,Both sexes,34.8
+Tuvalu,2020,Male,50
+Uganda,2020,Male,12.1
+Uganda,2020,Female,2.3
+Uganda,2020,Both sexes,7.2
+Ukraine,2020,Female,11.7
+Ukraine,2020,Both sexes,25.9
+Ukraine,2020,Male,40.1
+United Arab Emirates,2020,Male,16.4
+United Arab Emirates,2020,Female,2.7
+United Arab Emirates,2020,Both sexes,9.6
+United Kingdom of Great Britain and Northern Ireland,2020,Female,13.7
+United Kingdom of Great Britain and Northern Ireland,2020,Both sexes,15.6
+United Kingdom of Great Britain and Northern Ireland,2020,Male,17.4
+United Republic of Tanzania,2020,Female,1.4
+United Republic of Tanzania,2020,Male,14.3
+United Republic of Tanzania,2020,Both sexes,7.9
+United States of America,2020,Female,17.5
+United States of America,2020,Both sexes,21.2
+United States of America,2020,Male,24.9
+Uruguay,2020,Female,18.4
+Uruguay,2020,Both sexes,21.5
+Uruguay,2020,Male,24.7
+Uzbekistan,2020,Female,1
+Uzbekistan,2020,Both sexes,11.1
+Uzbekistan,2020,Male,21.2
+Viet Nam,2020,Female,1.1
+Viet Nam,2020,Both sexes,22.2
+Viet Nam,2020,Male,43.4
+Yemen,2020,Both sexes,17.6
+Yemen,2020,Male,28.3
+Yemen,2020,Female,6.9
+Zambia,2020,Both sexes,13.2
+Zambia,2020,Female,2.8
+Zambia,2020,Male,23.6
+Zimbabwe,2020,Female,0.9
+Zimbabwe,2020,Both sexes,11.1
+Zimbabwe,2020,Male,21.3
